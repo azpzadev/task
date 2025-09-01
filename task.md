@@ -19,6 +19,6 @@
 
 
 ## Notes
-[Download App Links](https://zapyatransfer.com/)
+[Download App Links](https://zapyatransfer.com/r/wRrezWYwjyDjwphESIZ)
 
 - Password => 617029
