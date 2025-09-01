@@ -2,7 +2,7 @@
 
 | Issue                                                                 | Done | Reason/Notes |
 |-----------------------------------------------------------------------|------|-------------|
-| Group Chat - Voice Message Box is too large. Play Button not centered | [ ]  | UI layout issue; needs proper constraints and alignment. |
+| Group Chat - Voice Message Box is too large. Play Button not centered | [Done]  | UI layout issue; needs proper constraints and alignment. |
 | Tablet - Only staff accounts can create groups. No groups shown if not logged in as staff. | [ ]  | Staff permission logic; should show groups for all users. |
 | File sending not working                                              | [ ]  | File picker or upload logic may be broken. |
 | Mobile - Group Chat shows 'Please Select a Person' after joining group | [ ]  | Selected person logic not set on join. |
