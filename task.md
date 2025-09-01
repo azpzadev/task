@@ -1,8 +1,8 @@
 # QA Checklist
 
-| Issue                                                                 | Done | Reason/Notes |
+| Issue                                                                 | Status | Reason/Notes |
 |-----------------------------------------------------------------------|------|-------------|
-| Group Chat - Voice Message Box is too large. Play Button not centered | [✅]  |
+| Group Chat - Voice Message Box is too large. Play Button not centered | [Done]  |
 | Tablet - Only staff accounts can create groups. No groups shown if not logged in as staff. | [ ]  | Staff permission logic; should show groups for all users. |
 | File sending not working                                              | [ ]  | File picker or upload logic may be broken. |
 | Mobile - Group Chat shows 'Please Select a Person' after joining group | [ ]  | Selected person logic not set on join. |
